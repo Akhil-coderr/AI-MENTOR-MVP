@@ -1,5 +1,5 @@
 # AI Mentor MVP
-
+# **PROTOTYPE LINK:** https://ai-mentor-mvp-akhil.streamlit.app/
 ## Overview
 
 AI Mentor MVP is a prototype developed for the **Aurstrat Technology AI/ML Internship Assessment**.
