@@ -1,5 +1,5 @@
-AI Mentor MVP
-Overview
+**AI Mentor MVP**
+Overview:
 
 AI Mentor MVP is a lightweight prototype developed as part of the Aurstrat Technology AI/ML Internship Assessment.
 
@@ -73,9 +73,6 @@ Strengths
 Risks
 Recommendations
 
-Testing
-
-The prototype was tested using multiple startup ideas from different domains to evaluate the consistency and structure of the generated responses.
 
 Limitations
 
