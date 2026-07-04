@@ -16,8 +16,8 @@ client = genai.Client(api_key=api_key)
 # 2. Define the Pydantic Schema (Using your exact structure)
 class StartupEvaluation(BaseModel):
     viability_score: int = Field(description="An integer between 1 and 100 assessing overall potential.")
-    strengths: str = Field(description="A list of the idea's core advantages.")
-    key_risks: str = Field(description="A list of primary execution or market pitfalls.")
+    strengths: str = Field(description="A list three of the idea's core advantages.")
+    key_risks: str = Field(description="A list of three primary execution or market pitfalls.")
     recommendations: str = Field(description="Exactly two concrete, actionable steps for improvement.")
 
 # 3. System Prompt
