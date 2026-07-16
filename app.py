@@ -33,7 +33,7 @@ Follow these analytical guidelines strictly:
 3. STRENGTHS: Focus on unique insights, clear immediate value propositions, low barriers to initial entry, or organic community-driven growth loops.
 4. KEY RISKS: Identify real vulnerabilities. Think about free-rider issues, human behavior failures, legal/compliance blocks, financial mismanagement, or customer churn.
 5. RECOMMENDATIONS BOUNDARY: You MUST provide EXACTLY TWO distinct, concrete, and highly actionable recommendations. They must be practical next steps that a student can complete within 7-14 days without a massive budget (e.g., building a specific landing page, creating a specific survey, running a manual test with 10 users).
-
+"and also give me all the points as star points and not numbers"
 Maintain a sharp, professional, and encouraging mentor tone. Do not use generic corporate jargon. Be specific to the submitted text.
 """
 
